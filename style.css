@@ -1,0 +1,19 @@
+div {
+  text-align: center;
+  color: white;
+  background-color: lightblue;
+  font-family: Arial, Helvetica, sans-serif;
+}
+li {
+  color: white;
+}
+.cover-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+ul {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: x-large;
+}
